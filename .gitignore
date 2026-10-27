@@ -1,0 +1,16 @@
+# User library data and local settings
+.arcade_data/
+
+# Local build products and compiler caches
+build/
+.build_cache/
+
+# Generated icon source set and macOS metadata
+tmp.iconset/
+.DS_Store
+
+# Editor and tool state
+.vscode/
+.idea/
+*.swp
+*.orig
