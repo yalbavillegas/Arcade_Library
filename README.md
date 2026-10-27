@@ -4,6 +4,18 @@
 
 Arcade Library es una aplicación de escritorio nativa para macOS diseñada para administrar, explorar y ejecutar juegos arcade mediante una biblioteca visual moderna y elegante, integrándose directamente con una instalación existente de MAME sin necesidad de utilizar la Terminal para las operaciones habituales.
 
+## Capturas de pantalla
+
+### Biblioteca
+
+![Vista de la biblioteca de Arcade Library](Screenshots/library-grid.png)
+
+### Ficha de un juego
+
+La ruta local del archivo ROM se ocultó en esta captura.
+
+![Ficha de Captain Commando en Arcade Library](Screenshots/game-detail.png)
+
 ---
 
 ## Créditos y Autoría
